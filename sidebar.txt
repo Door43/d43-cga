@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cga:home|Door43 (cga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cga|d43-cga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cga/archive/master.zip|d43-cga.zip]]
+
+**Recent Changes**
+{{changes>ns = cga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cga|Ethnologue data]]
+
